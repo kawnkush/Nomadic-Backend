@@ -34,6 +34,8 @@
     "mongoose": "^6.5.4",
     "nodemailer": "^6.7.8",
     "nodemon": "^2.0.19",
+    "razorpay": "^2.8.3",
+    "shortid": "^2.2.16",
     "swagger-jsdoc": "^6.0.8",
     "swagger-ui-express": "^4.1.6",
     "validator": "^13.0.0",
